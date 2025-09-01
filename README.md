@@ -1,31 +1,20 @@
-Welcome to my GitHub profile! My name is [Your Name], and I'm a passionate and motivated 4th-semester Software Engineering student. I have a keen interest in the dynamic and innovative fields of gaming and cybersecurity. This repository serves as a portfolio of my projects, experiments, and learnings as I continue to grow as a developer.
+<h1 align="center">Hi 👋, I'm Bilal Zafar</h1>
+<h3 align="center">Welcome to my GitHub profile! My name is Bilal Zafar, and I'm a passionate and motivated 4th-semester Software Engineering student. I have a keen interest in the dynamic and innovative fields of gaming and cybersecurity. This repository serves as a portfolio of my projects, experiments, and learnings as I continue to grow as a developer. 🎮 Gaming and Cyber Security Enthusiast 🔐 I'm fascinated by the technical challenges and creative opportunities within the gaming industry. My interest lies in understanding game mechanics, development pipelines, and the underlying systems that bring virtual worlds to life. In parallel, I'm captivated by the world of cybersecurity. I'm dedicated to learning about digital defense, ethical hacking, and securing software systems to protect against vulnerabilities. My goal is to apply my programming skills to build more robust and secure applications.</h3>
 
-🎮 Gaming and Cyber Security Enthusiast 🔐
-I'm fascinated by the technical challenges and creative opportunities within the gaming industry. My interest lies in understanding game mechanics, development pipelines, and the underlying systems that bring virtual worlds to life.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilaldotzafar" alt="bilaldotzafar" /></a> </p>
 
-In parallel, I'm captivated by the world of cybersecurity. I'm dedicated to learning about digital defense, ethical hacking, and securing software systems to protect against vulnerabilities. My goal is to apply my programming skills to build more robust and secure applications.
+- 🔭 I’m currently working on **Simple chess game**
 
-💻 Skills and Courses
-I'm currently building my foundation with the following core skills and courses:
+- 📫 How to reach me **bilaaalzafar@gmail.com**
 
-Java Fundamentals & OOP: I have a solid understanding of object-oriented programming principles and can develop robust applications using Java.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bilal zafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilal zafar" height="30" width="40" /></a>
+</p>
 
-SQL Databases: I'm proficient in designing and querying relational databases, and I have experience with SQL for data management.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-Version Control: I'm comfortable using Git and GitHub for collaborative development and project management.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilaldotzafar&show_icons=true&locale=en" alt="bilaldotzafar" /></p>
 
-🌱 What I'm Learning Next
-I'm always eager to learn and expand my knowledge. Here's a glimpse into what I'm currently exploring or plan to learn in the near future:
-
-Game Development: I'm looking into frameworks like LibGDX or Unity to start building small-scale games.
-
-Network Security: I'm diving deeper into network protocols and common security vulnerabilities.
-
-Advanced Algorithms: To sharpen my problem-solving skills and prepare for more complex challenges.
-
-📫 Get in Touch!
-Feel free to connect with me!
-
-[Your LinkedIn Profile Link]
-
-[Your Email Address]
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilaldotzafar&" alt="bilaldotzafar" /></p>
