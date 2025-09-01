@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilaldotzafar" alt="bilaldotzafar" /></a> </p>
 
-- 🔭 I’m currently working on **Simple chess game**
+- 🔭 I’m currently working on **Buiding a realtime chat app**
 
 - 📫 How to reach me **bilaaalzafar@gmail.com**
 
